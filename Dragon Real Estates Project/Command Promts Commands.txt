@@ -1,0 +1,6 @@
+==> যদি cmd তে দেখায় কোনো পাথে সমস্যা আছে, তাহলে cmd run as adminitrator choose করে cd "path" টা কপি করে দিয়ে পরের কমান্ডগুলো লিখব
+
+python --version
+pip3 --version
+pip3 install --upgrade pip
+pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
